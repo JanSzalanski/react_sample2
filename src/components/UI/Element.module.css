@@ -1,0 +1,9 @@
+.element {
+  font: inherit;
+  background: #4f005f;
+  color: white;
+  cursor: pointer;
+  text-transform: uppercase;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
